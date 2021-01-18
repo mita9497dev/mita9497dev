@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi Github 👋
+
+<p align="center">
+  <samp>
+I'm MiTa9497Dev. I want to wish everyone the best. 
+     <br><br>Contact me on <a href="https://twitter.com/surjithctly">Discord MiTa#4508</a> or <a href="mailto:mita9497dev@gmail.com">Send an Email</a>
+     <br><br>- 🔭 I’m currently working on IoT
+  </samp>
+<br><br>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=mita9497dev.visitor-badge" alt="Visitors Counter">
+</p>
 
 <!--
 **mita9497dev/mita9497dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
